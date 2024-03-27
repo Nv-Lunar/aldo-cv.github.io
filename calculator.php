@@ -55,6 +55,8 @@
     <style>
         body{
             background-color: rgb(163, 159, 159);
+            width: 105%;
+            height: 110%;
         }
        
         .calc{
@@ -62,8 +64,8 @@
             margin: auto;
             background-color: black;
             border: 2px solid whitesmoke;
-            width: 24%;
-            height: 630px;
+            width: 30%;
+            height: 30%;
             border-radius: 20px;
             box-shadow: 10px 10px 40px;
         }
@@ -124,7 +126,7 @@
     </style>
 </head>
 <body>
-    <a href="./">Back</a>
+<a href="https://nv-lunar.github.io/aldo-cv.github.io/">Back</a>
         <div class="calc">
             <form action="" method="post">
                 <br>
